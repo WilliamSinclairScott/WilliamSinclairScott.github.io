@@ -11,7 +11,7 @@ export default function Contact() {
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        Swaraj Gosavi (GitHub) [@swarajgosavi]
+                        William Scott
                     </a>
                 </center>
             </h1>
