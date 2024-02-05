@@ -1,0 +1,14 @@
+.body {
+    background-color: grey;
+}
+
+.title {
+    background-color: darkgrey;
+    font-size: 36px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    border-width: 5px;
+    border-color: green;
+    border-style: solid;
+}
